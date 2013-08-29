@@ -1,4 +1,4 @@
-﻿namespace FogBugzClient
+﻿namespace FogBugzXmlApiClient
 {
     using System;
     using System.Collections;

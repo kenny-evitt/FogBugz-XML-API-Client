@@ -7,7 +7,7 @@
     <ProjectGuid>{CFE6C53B-3444-4B46-97AC-8FB22A8D5C0D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FogBugzClient</RootNamespace>
+    <RootNamespace>FogBugzXmlApiClient</RootNamespace>
     <AssemblyName>FogBugzClient</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
