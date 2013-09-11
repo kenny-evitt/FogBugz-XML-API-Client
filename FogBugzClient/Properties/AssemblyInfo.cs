@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FogBugzClient")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("FogBugzXmlApiClient")]
+[assembly: AssemblyDescription("FogBugz XML API Client")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("FogBugzClient")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
+[assembly: AssemblyCompany("Kenny Evitt")]
+[assembly: AssemblyProduct("FogBugzXmlApiClient")]
+[assembly: AssemblyCopyright("Copyright © Kenny Evitt 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
