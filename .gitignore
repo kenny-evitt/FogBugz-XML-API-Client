@@ -6,3 +6,6 @@
 
 # Ignore Visual Studio user option files
 *.suo
+
+# Ignore NuGet packages
+*.nupkg
